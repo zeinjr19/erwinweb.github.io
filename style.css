@@ -1,0 +1,37 @@
+#header{
+
+	width: 100%;
+	height: 100px;
+	background: #78e08f;
+	text-align: center;
+}
+#header h1{
+
+	margin: 0;
+	line-height: 100px;
+}
+#main-content,
+#right-sidebar,
+#left-sidebar{
+
+	height: 400px;
+	color: white;
+}
+#right-sidebar{
+
+	background: #079992;
+
+}
+#main-content{
+
+	background: #0a3d62;
+	
+}
+#left-sidebar{
+	background: #0a3d62;
+}
+
+.navbar{
+
+		margin-bottom: 0;
+}
